@@ -1,0 +1,147 @@
+    1  [200~git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  141  cd ../git/test
+  142  cd ./git/test
+  143  git clone gh repo clone deks59rus/0_git_basics_DPI22-1
+  144  git clone gh repo clone "deks59rus/0_git_basics_DPI22-1"
+  145  -
+  146  git clone "deks59rus/0_git_basics_DPI22-1"
+  147  git clone deks59rus/0_git_basics_DPI22-1
+  148  gh repo clone deks59rus/0_git_basics_DPI22-1
+  149  git repo clone deks59rus/0_git_basics_DPI22-1
+  150  git clone deks59rus/0_git_basics_DPI22-1
+  151  git@github.com:deks59rus/0_git_basics_DPI22-1.git
+  152  git clone https://github.com/deks59rus/0_git_basics_DPI22-1.git
+  153  git commit
+  154  cd ./0_git_basics_DPI22-1
+  155  git commit
+  156  git add --am
+  157  git add all
+  158  git add --all
+  159  git status
+  160  git commit
+  161  echo "Как тебя зовут?"
+  162  read name
+  163  echo "Здравствуй, $name!"
+  164  echo "Press any key to continue..."
+  165  read -n 1 -s
+  166  echo ""
+  167  history
+  168  git checkout de8c13c
+  169  git checkout master
+  170  $ git reset --hard
+  171  git reset --hard
+  172  git reset --hard
+  173  git reset
+  174  git status
+  175  git revert
+  176  git revert de8c13c
+  177  git revert --continue
+  178  git revert --continue
+  179  git revert --continue
+  180  git revert de8c13c
+  181  git add/rm backup.sh.bak
+  182  git add rm backup.sh.bak
+  183  git add backup.sh.bak
+  184  git revert de8c13c
+  185  git stash
+  186  git revert de8c13c
+  187  git revert de8c13c
+  188  git add backup.sh.bak
+  189  git revert de8c13c
+  190  git stash
+  191  git revert de8c13c
+  192  git mergetool
+  193  echo "Как тебя зовут?"
+  194  read name
+  195  echo "Здравствуй, $name!"
+  196  echo "Press any key to continue..."
+  197  read -n 1 -s
+  198  echo ""
+  199  git reset HEAD~1~
+  200  git reset HEAD~2~
+  201  git reset HEAD~1~
+  202  git reset HEAD~4~
+  203  git log
+  204  git commit
+  205  git commit
+  206  git commit
+  207  git reset --hard HEAD de8c13cbd69fec7bb33f62d420a103dff2c40ef5
+  208  git reset --hard HEAD https://github.com/deks59rus/DPI-22-1_DO2.3-GitHub-.git~
+  209  git reset HEAD de8c13cbd69fec7bb33f62d420a103dff2c40ef5
+  210  git push -f origin master
+  211  git checkout master
+  212  git revert de8c13cbd69fec7bb33f62d420a103dff2c40ef5 
+  213  git revert --abort
+  214  git revert de8c13cbd69fec7bb33f62d420a103dff2c40ef5 
+  215  git reset HEAD~4~
+  216  git push -f origin master
+  217  git log
+  218  history
+  219  history > bash_history.txt
+  220  python3 -m venv venv
+  221  venv\Scripts\activate
+  222  git push
+  223  git check-ignore -v venv/
+  224  git status
+  225  git brunch custom-brunch
+  226  git branch custom-branch
+  227  git checkout custom-branch 
+  228  git branch
+  229  git add .
+  230  git commit -m "В ветку добавлена программа HelloWorld на языке python"
+  231  git status
+  232  git add .
+  233  git commit -m "Изменены программы для приветствия пользователя по имени"
+  234  git checkout master
+  235  git checkout custom-branch 
+  236  git checkout master
+  237  git add .
+  238  git status
+  239  git add .
+  240  git status
+  241  git del .
+  242  git status
+  243  git commit -m "Изменены программы для приветствия пользователя по имени"
+  244  git checkout custom-branch 
+  245  git merge custom-branch
+  246  git checkout master
+  247  git merge custom-branch
+  248  git check-ignore -v venv/
+  249  git add .gitignore
+  250  git add HelloWorld.java
+  251  git status
+  252  git commit -m "Разрешены конфликты merge"
+  253  git status
+  254  git tag -a v1.0.0 -m "Релиз версии 1.0.0"
+  255  git push origin main
+  256  git push
+  257  git remote DPI_Lab2 
+  258  git push origin master
+  259  history > USER_HISTORY.txt
+  260  git status
+  261  git add .
+  262  git status
+  263  git commit "Программы Hello World на разных языках программирования"
+  264  git commit
+  265  dit init
+  266  git init
+  267  git status
+  268  git status
+  269  git add SimpleCalc.py
+  270  git status
+  271   git commit -m
+  272   git commit -am "Простейший калькулятор для КР по работе с гит через терминал. Первый commit"
+  273   git commit -m "Добавлен примитивный выбор цвета интерфейса"
+  274  git add SimpleCalc.py
+  275   git commit -m "Добавлен примитивный выбор цвета интерфейса"
+  276  git add SimpleCalc.py
+  277   git commit -m "Добавлены сложные математические действия, история, улучшена отладка ошибок"
+  278  git log
+  279   git commit -m "Улучшен интерфейс"
+  280  ~git reset HEAD~1~
+  281  git reset HEAD~1~
+  282  git log
+  283  clone https://github.com/deks59rus/DPI-22-1_DO2.3-GitHub-.git
+  284  git clone https://github.com/deks59rus/DPI-22-1_DO2.3-GitHub-.git
+  285  history > USER_HISTORY
+  286  history > USER_HISTORY.txt
